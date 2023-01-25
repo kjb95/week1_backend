@@ -35,3 +35,9 @@ subprojects {
         }
     }
 }
+
+project(':api') {
+    dependencies {
+        implementation project(':core')
+    }
+}
