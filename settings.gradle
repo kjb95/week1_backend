@@ -1,3 +1,4 @@
 rootProject.name = 'backend_kjb'
 include 'core'
+include 'api'
 
